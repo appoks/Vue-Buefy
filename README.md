@@ -20,7 +20,7 @@ _____
     - I suggest to configure CSS pre-processor during project scaffold.
 
     <p align="center">
-    <img alt="CLI options" src=".images/vue-cli.png" width="100%">
+    <img alt="CLI options" src="./images/vue-cli.png" width="100%">
     </p>
 
 
