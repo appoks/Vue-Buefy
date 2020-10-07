@@ -1,7 +1,6 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <template>
     <section>
 
         <div class="buttons">
@@ -58,6 +57,14 @@
         </div>
 
     </section>
+    </div>
 </template>
-  </div>
-</template>
+
+<style lang="css" scoped>
+    .about {
+        width: 80%;
+        max-width: 900px;
+        margin: 0 auto; 
+    }
+</style>
+

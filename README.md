@@ -1,12 +1,13 @@
-# testing-sass
+# Configuring Buefy & SASS: VueCLI
 
 This is a 'bare-minimum' setup to use Vue.js with:
 
-- Bulma, via Buefy
-- Sass with scss syntax.
+- Bulma, via Buefy;
+- Sass with scss syntax;
 - Globally loaded sass variables.
 
 This solves my journey of trying to use sass variables inside vue components.
+The repository itself is a kind of documentation for myself.
 
 _____
 
@@ -120,6 +121,10 @@ _____
     ```
 6. You may be able to use your variables inside vue components.
 
+    - Here's Buefy buttons, using the modified primary color:
+    <p align="center">
+    <img alt="Final Result" src="./images/final-result.png" width="80%">
+    </p>
 
     ```js
     // src/components/HelloWorld.vue
@@ -156,12 +161,14 @@ _____
 
  7. Start developing!
 
-___
+_
 
-# Important Links:
+
+
+## Important Links:
 For more information, you can check the documentations:
 - [Customize Vue CLI configuration](https://cli.vuejs.org/config/).
-
+- [Customize Vue CLI: CSS Loaders](https://cli.vuejs.org/config/#css-loaderoptions)
 - [Customize Buefy](https://buefy.org/documentation/customization)
-
+- [Bulma Variables](https://bulma.io/documentation/customize/variables/)
 ### 
