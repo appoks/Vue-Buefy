@@ -43,7 +43,6 @@ _____
     import Buefy from "buefy";
     Vue.use(Buefy);
     ```
-- Include some Buefy elements and test it.
 
 
 4. Install sass dependencies, if missing.
